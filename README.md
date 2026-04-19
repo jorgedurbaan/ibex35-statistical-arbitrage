@@ -64,13 +64,13 @@ The project is built as a single Jupyter Notebook divided into 6 steps:
 ---
 
 ## Requirements
-'''
+```
 yfinance
 pandas
 numpy
 matplotlib
 statsmodels
-'''
+```
 
 ## Lessons Learned
 
